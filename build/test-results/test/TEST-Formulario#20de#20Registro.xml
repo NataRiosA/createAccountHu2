@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Formulario de Registro" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-07T15:44:57" hostname="22LAP5CG0525FBR" time="78.292">
+  <properties/>
+  <testcase name="como usuario nuevo quiero registrarme y poner la informacion para la cuenta" classname="Formulario de Registro" time="25.131"/>
+  <testcase name="como usuario nuevo quiero registrarme" classname="Formulario de Registro" time="26.028"/>
+  <testcase name="como usuario nuevo quiero registrarme en la pagina" classname="Formulario de Registro" time="27.109"/>
+  <system-out><![CDATA[10:44:58.408 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+10:44:58.408 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+10:45:09.091 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+10:45:09.100 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+10:45:09.752 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\be9db59088a138b0f0ece10445f1abce0231a6447a4e8f725223ac249e05b137.png
+10:45:09.759 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-6244740035577701428
+10:45:09.759 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\be9db59088a138b0f0ece10445f1abce0231a6447a4e8f725223ac249e05b137.png
+10:45:19.720 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\f7c43978534ccb438b2387bd989f2a4cacf35d392abc9753940a276040ed4eca.png
+10:45:19.726 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-8619513077513944638
+10:45:19.726 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\f7c43978534ccb438b2387bd989f2a4cacf35d392abc9753940a276040ed4eca.png
+10:45:20.497 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\7b5c33771281da01391ac9d91117ca6c9844aa13be7d6f96d075fe7f12f23d6b.png
+10:45:20.502 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-6006229750156135427
+10:45:20.502 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\7b5c33771281da01391ac9d91117ca6c9844aa13be7d6f96d075fe7f12f23d6b.png
+10:45:21.196 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\9a28b0a0833a2415ace7e7b8af466c8e5246b9526ab44b438b62daf5310c60ef.png
+10:45:22.602 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: como usuario nuevo quiero registrarme y poner la informacion para la cuenta
+----------------------------------------------------------------------------?[0m
+10:45:22.910 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+10:45:22.910 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+10:45:30.971 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\dc15866c2cd94b179e34ed5ff7430ee975a19d0ab96a7f7e546dee5b6914ffc1.png
+10:45:30.978 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-7743324102699695588
+10:45:30.979 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\dc15866c2cd94b179e34ed5ff7430ee975a19d0ab96a7f7e546dee5b6914ffc1.png
+10:45:40.761 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\1f699753a54eb5d834ac25b8fb569c2d79a66cb4b714280646feb61937bd5ceb.png
+10:45:40.765 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-2575091468135940261
+10:45:40.765 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\1f699753a54eb5d834ac25b8fb569c2d79a66cb4b714280646feb61937bd5ceb.png
+10:45:47.260 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\742d612def1694d5bb7bed9374de031cef61b5194b3c66f4ef5749839c91a787.png
+10:45:48.642 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: como usuario nuevo quiero registrarme
+----------------------------------------------------------------------------?[0m
+10:45:49.054 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+10:45:49.054 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+10:45:57.356 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\a1f7e7424cfef2af27d5cbfcb0f8501369012a91d2494fb103ea2765120ef41b.png
+10:45:57.359 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-4209134142035853810
+10:45:57.359 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\a1f7e7424cfef2af27d5cbfcb0f8501369012a91d2494fb103ea2765120ef41b.png
+10:46:06.954 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\6f6e216d78ba3823478c86b79b18f8c27c5ef17c225946a4497ec2513778715c.png
+10:46:06.966 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-8087959392653475692
+10:46:06.967 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\6f6e216d78ba3823478c86b79b18f8c27c5ef17c225946a4497ec2513778715c.png
+10:46:07.828 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\b8769a7a4b4a4b7a77a37eb4dba69b751cae977a43235e83432c5d2b8559a6dd.png
+10:46:07.831 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3371154573429722434
+10:46:07.831 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\b8769a7a4b4a4b7a77a37eb4dba69b751cae977a43235e83432c5d2b8559a6dd.png
+10:46:14.404 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\createAccountHu2\target\site\serenity\e004ad239263d7f90db09c7014838c8cb783d3fe47ed67519db05106bb42c388.png
+10:46:14.404 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-6388457019834424742
+10:46:14.404 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\createAccountHu2\target\site\serenity\e004ad239263d7f90db09c7014838c8cb783d3fe47ed67519db05106bb42c388.png
+10:46:15.764 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: como usuario nuevo quiero registrarme en la pagina
+----------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[ene 07, 2022 10:44:57 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 37654
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 07, 2022 10:45:05 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+ene 07, 2022 10:45:22 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 31951
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 07, 2022 10:45:27 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+ene 07, 2022 10:45:48 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 3910
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 07, 2022 10:45:53 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
